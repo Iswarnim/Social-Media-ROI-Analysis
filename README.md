@@ -49,7 +49,8 @@ YouTube: A surprising insight showed that Carousels (17.4%) and Images (15%) del
 
 ## How to View This Project
 
-1.  Download the `[Your-Excel-File-Name.xlsx]` file from this repository.
-2.  Open the file in a desktop version of **Microsoft Excel** (this is recommended for all interactive features like slicers to work correctly).
-3.  Explore the various worksheets to see the raw data, data cleaning, and step-by-step analysis.
-4.  Navigate to the **"Dashboard"** sheet to view the final interactive summary.
+1.  you can see all sheet's csv file here.
+2.  and for whole excel file you can download it from the link :-https://docs.google.com/spreadsheets/d/1D8_jPfT5m7uay402lfRC1o5EkcO4qVmF
+3.  Open the file in a desktop version of **Microsoft Excel** (this is recommended for all interactive features like slicers to work correctly).
+4.  Explore the various worksheets to see the raw data, data cleaning, and step-by-step analysis.
+5.  Navigate to the **"Dashboard"** sheet to view the final interactive summary.
